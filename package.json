@@ -1,7 +1,7 @@
 {
   "name": "live7",
   "version": "0.1.0",
-  "homepage": "https://talkpik.github.com/live7",
+  "homepage": "https://talkpik.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
